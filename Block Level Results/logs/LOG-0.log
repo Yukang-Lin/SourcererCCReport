@@ -1,0 +1,110 @@
+[INFO] (MainThread) Process 0 starting
+[INFO] (MainThread) Starting zip project <11,/home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip> (process 0)
+[INFO] (MainThread) Attempting to process_zip_ball /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip
+[INFO] (MainThread) Attempting to process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/BenchJavaPropName.java
+[INFO] (MainThread) Starting tokenize_blocks of /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/BenchJavaPropName.java
+[INFO] (MainThread) Starting block-level parsing on /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/BenchJavaPropName.java
+[WARNING] (MainThread) File /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/BenchJavaPropName.java successfully parsed.
+[WARNING] (MainThread) Finished step1 on process_file_contents
+[WARNING] (MainThread) Finished step2 on process_file_contents
+[INFO] (MainThread) Successfully ran process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/BenchJavaPropName.java
+[INFO] (MainThread) Attempting to process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/BenchParser.java
+[INFO] (MainThread) Starting tokenize_blocks of /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/BenchParser.java
+[INFO] (MainThread) Starting block-level parsing on /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/BenchParser.java
+[WARNING] (MainThread) File /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/BenchParser.java successfully parsed.
+[WARNING] (MainThread) Finished step1 on process_file_contents
+[WARNING] (MainThread) Finished step2 on process_file_contents
+[INFO] (MainThread) Successfully ran process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/BenchParser.java
+[INFO] (MainThread) Attempting to process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/BenchRubyCasedName.java
+[INFO] (MainThread) Starting tokenize_blocks of /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/BenchRubyCasedName.java
+[INFO] (MainThread) Starting block-level parsing on /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/BenchRubyCasedName.java
+[WARNING] (MainThread) File /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/BenchRubyCasedName.java successfully parsed.
+[WARNING] (MainThread) Finished step1 on process_file_contents
+[WARNING] (MainThread) Finished step2 on process_file_contents
+[INFO] (MainThread) Successfully ran process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/BenchRubyCasedName.java
+[INFO] (MainThread) Attempting to process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/ArrayCopyBenchmark.java
+[INFO] (MainThread) Starting tokenize_blocks of /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/ArrayCopyBenchmark.java
+[INFO] (MainThread) Starting block-level parsing on /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/ArrayCopyBenchmark.java
+[WARNING] (MainThread) File /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/ArrayCopyBenchmark.java successfully parsed.
+[WARNING] (MainThread) Finished step1 on process_file_contents
+[WARNING] (MainThread) Finished step2 on process_file_contents
+[INFO] (MainThread) Successfully ran process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/ArrayCopyBenchmark.java
+[INFO] (MainThread) Attempting to process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/EncodingBenchmark.java
+[INFO] (MainThread) Starting tokenize_blocks of /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/EncodingBenchmark.java
+[INFO] (MainThread) Starting block-level parsing on /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/EncodingBenchmark.java
+[WARNING] (MainThread) File /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/EncodingBenchmark.java successfully parsed.
+[WARNING] (MainThread) Finished step1 on process_file_contents
+[WARNING] (MainThread) Finished step2 on process_file_contents
+[INFO] (MainThread) Successfully ran process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/EncodingBenchmark.java
+[INFO] (MainThread) Attempting to process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/EventHookBenchmark.java
+[INFO] (MainThread) Starting tokenize_blocks of /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/EventHookBenchmark.java
+[INFO] (MainThread) Starting block-level parsing on /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/EventHookBenchmark.java
+[WARNING] (MainThread) File /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/EventHookBenchmark.java successfully parsed.
+[WARNING] (MainThread) Finished step1 on process_file_contents
+[WARNING] (MainThread) Finished step2 on process_file_contents
+[INFO] (MainThread) Successfully ran process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/EventHookBenchmark.java
+[INFO] (MainThread) Attempting to process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/FixnumCreationBenchmark.java
+[INFO] (MainThread) Starting tokenize_blocks of /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/FixnumCreationBenchmark.java
+[INFO] (MainThread) Starting block-level parsing on /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/FixnumCreationBenchmark.java
+[WARNING] (MainThread) File /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/FixnumCreationBenchmark.java successfully parsed.
+[WARNING] (MainThread) Finished step1 on process_file_contents
+[WARNING] (MainThread) Finished step2 on process_file_contents
+[INFO] (MainThread) Successfully ran process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/FixnumCreationBenchmark.java
+[INFO] (MainThread) Attempting to process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/JavaInterfaceBenchmark.java
+[INFO] (MainThread) Starting tokenize_blocks of /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/JavaInterfaceBenchmark.java
+[INFO] (MainThread) Starting block-level parsing on /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/JavaInterfaceBenchmark.java
+[WARNING] (MainThread) File /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/JavaInterfaceBenchmark.java successfully parsed.
+[WARNING] (MainThread) Finished step1 on process_file_contents
+[WARNING] (MainThread) Finished step2 on process_file_contents
+[INFO] (MainThread) Successfully ran process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/JavaInterfaceBenchmark.java
+[INFO] (MainThread) Attempting to process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/NilCheckBenchmark.java
+[INFO] (MainThread) Starting tokenize_blocks of /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/NilCheckBenchmark.java
+[INFO] (MainThread) Starting block-level parsing on /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/NilCheckBenchmark.java
+[WARNING] (MainThread) File /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/NilCheckBenchmark.java successfully parsed.
+[WARNING] (MainThread) Finished step1 on process_file_contents
+[WARNING] (MainThread) Finished step2 on process_file_contents
+[INFO] (MainThread) Successfully ran process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/NilCheckBenchmark.java
+[INFO] (MainThread) Attempting to process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/StringLoopBenchmark.java
+[INFO] (MainThread) Starting tokenize_blocks of /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/StringLoopBenchmark.java
+[INFO] (MainThread) Starting block-level parsing on /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/StringLoopBenchmark.java
+[WARNING] (MainThread) File /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/StringLoopBenchmark.java successfully parsed.
+[WARNING] (MainThread) Finished step1 on process_file_contents
+[WARNING] (MainThread) Finished step2 on process_file_contents
+[INFO] (MainThread) Successfully ran process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/bench/src/main/java/org/jruby/benchmark/StringLoopBenchmark.java
+[INFO] (MainThread) Attempting to process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/core/src/main/java/org/jruby/AbstractRubyMethod.java
+[INFO] (MainThread) Starting tokenize_blocks of /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/core/src/main/java/org/jruby/AbstractRubyMethod.java
+[INFO] (MainThread) Starting block-level parsing on /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/core/src/main/java/org/jruby/AbstractRubyMethod.java
+[WARNING] (MainThread) File /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/core/src/main/java/org/jruby/AbstractRubyMethod.java successfully parsed.
+[WARNING] (MainThread) Finished step1 on process_file_contents
+[WARNING] (MainThread) Finished step2 on process_file_contents
+[INFO] (MainThread) Successfully ran process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/core/src/main/java/org/jruby/AbstractRubyMethod.java
+[INFO] (MainThread) Attempting to process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/core/src/main/java/org/jruby/BasicObjectStub.java
+[INFO] (MainThread) Starting tokenize_blocks of /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/core/src/main/java/org/jruby/BasicObjectStub.java
+[INFO] (MainThread) Starting block-level parsing on /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/core/src/main/java/org/jruby/BasicObjectStub.java
+[WARNING] (MainThread) File /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/core/src/main/java/org/jruby/BasicObjectStub.java successfully parsed.
+[WARNING] (MainThread) Finished step1 on process_file_contents
+[WARNING] (MainThread) Finished step2 on process_file_contents
+[INFO] (MainThread) Successfully ran process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/core/src/main/java/org/jruby/BasicObjectStub.java
+[INFO] (MainThread) Attempting to process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/core/src/main/java/org/jruby/CompatVersion.java
+[INFO] (MainThread) Starting tokenize_blocks of /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/core/src/main/java/org/jruby/CompatVersion.java
+[INFO] (MainThread) Starting block-level parsing on /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/core/src/main/java/org/jruby/CompatVersion.java
+[WARNING] (MainThread) File /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/core/src/main/java/org/jruby/CompatVersion.java successfully parsed.
+[WARNING] (MainThread) Finished step1 on process_file_contents
+[WARNING] (MainThread) Finished step2 on process_file_contents
+[INFO] (MainThread) Successfully ran process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/core/src/main/java/org/jruby/CompatVersion.java
+[INFO] (MainThread) Attempting to process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/core/src/main/java/org/jruby/EvalType.java
+[INFO] (MainThread) Starting tokenize_blocks of /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/core/src/main/java/org/jruby/EvalType.java
+[INFO] (MainThread) Starting block-level parsing on /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/core/src/main/java/org/jruby/EvalType.java
+[WARNING] (MainThread) File /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/core/src/main/java/org/jruby/EvalType.java successfully parsed.
+[WARNING] (MainThread) Finished step1 on process_file_contents
+[WARNING] (MainThread) Finished step2 on process_file_contents
+[INFO] (MainThread) Successfully ran process_file_contents /home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip/jruby-9.2.13.0/core/src/main/java/org/jruby/EvalType.java
+[WARNING] (MainThread) Unable to open zip on </home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip> (process 0)
+[WARNING] (MainThread) 'ZipInfo' object has no attribute 'startswith'
+[INFO] (MainThread) Project finished <11,/home/kilgore/Documents/git/SourcererCC/sysc5105-project/jruby-dist-9.2.13.0-src.zip> (process 0)
+[INFO] (MainThread)  (0): Total: 0:00:00.274372micros | Zip: -1 Read: -1 Separators: -1micros Tokens: -1micros Write: -1micros Hash: -1 regex: -1
+[INFO] (MainThread) Process 0 finished. 14 files in 0s.
+[INFO] (MainThread) Process 0 starting
+[INFO] (MainThread) Starting zip project <12,> (process 0)
+[WARNING] (MainThread) Unable to open project <12,> (process 0)
+[INFO] (MainThread) Process 0 finished. 0 files in 0s.
